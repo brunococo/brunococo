@@ -3,3 +3,6 @@
 To cursando Desenvolvimento de Sistemas]
 
 <img src="https://github.com/user-attachments/assets/6ae69cf4-5678-4832-8b2d-dd61074ddaee" width="200">
+
+Eu gosto de escutar música:)
+<img width="490" height="500" alt="image" src="https://github.com/user-attachments/assets/5c94f19f-df20-4334-8cbe-fe4f414a241a" />
